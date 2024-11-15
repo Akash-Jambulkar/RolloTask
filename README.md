@@ -1,4 +1,4 @@
-# 🎯 RolloTask
+# 🎯 RolloTask : https://rollotask0625.netlify.app/
 
 A beautiful, modern task management application with smart rollover functionality. Tasks automatically roll over to the next day if they're not completed by their due date.
 
@@ -17,7 +17,7 @@ A beautiful, modern task management application with smart rollover functionalit
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rollotask.git
+git clone https://github.com/Akash-Jambulkar/RolloTask.git
 
 # Navigate to project directory
 cd rollotask
